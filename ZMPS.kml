@@ -8,7 +8,6 @@
   <Document>
     <name>Sucursales Zona Metropolitana Poniente</name>
     <description>Areas de las Sucursales ZMP</description>
-
     <Style id="blueLine">
       <LineStyle>
         <color>ffff0000</color>
