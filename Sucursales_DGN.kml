@@ -1,0 +1,1254 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>Sucursales DGN</name>
+		<description><![CDATA[Direccion de todas las sucursales de la Division Golfo Norte]]></description>
+		<Folder>
+			<name>Sucursales DGN</name>
+			<Placemark>
+				<name>Bella Vista</name>
+				<description><![CDATA[Direccion (Calle, #, Colonia): AV. ALFONSO REYES #2400 NTE COL. BELLA VISTA<br>lat: 25.697883<br>lon: -100.317408]]></description>
+				<styleUrl>#icon-1561-097138</styleUrl>
+				<ExtendedData>
+					<Data name='Direccion (Calle, #, Colonia)'>
+						<value>AV. ALFONSO REYES #2400 NTE COL. BELLA VISTA</value>
+					</Data>
+					<Data name='lat'>
+						<value>25.697883</value>
+					</Data>
+					<Data name='lon'>
+						<value>-100.317408</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-100.317408,25.697883,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Churubusco</name>
+				<description><![CDATA[Direccion (Calle, #, Colonia): AV. CHURUBUSCO # 133 NTE. COL. FCO.G. SADA<br>lat: 25.705694<br>lon: -100.268066]]></description>
+				<styleUrl>#icon-1561-097138</styleUrl>
+				<ExtendedData>
+					<Data name='Direccion (Calle, #, Colonia)'>
+						<value>AV. CHURUBUSCO # 133 NTE. COL. FCO.G. SADA</value>
+					</Data>
+					<Data name='lat'>
+						<value>25.705694</value>
+					</Data>
+					<Data name='lon'>
+						<value>-100.268066</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-100.268066,25.705694,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Centro</name>
+				<description><![CDATA[Direccion (Calle, #, Colonia): ALLENDE # 119 ORIENTE COL. CENTRO<br>lat: 25.670308<br>lon: -100.314437]]></description>
+				<styleUrl>#icon-1561-097138</styleUrl>
+				<ExtendedData>
+					<Data name='Direccion (Calle, #, Colonia)'>
+						<value>ALLENDE # 119 ORIENTE COL. CENTRO</value>
+					</Data>
+					<Data name='lat'>
+						<value>25.670308</value>
+					</Data>
+					<Data name='lon'>
+						<value>-100.314437</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-100.314437,25.670308,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>San Nicolas</name>
+				<description><![CDATA[Direccion (Calle, #, Colonia): HIDALGO # 801, PLAZA TENERÍAS LOCAL B-2 (ESQUINA CON GONZALITOS), COLONIA CENTRO, SAN NICOLAS DE LOS GARZA, NUEVO LEON, CP 66400<br>lat: 25.749275<br>lon: -100.288162]]></description>
+				<styleUrl>#icon-1561-097138</styleUrl>
+				<ExtendedData>
+					<Data name='Direccion (Calle, #, Colonia)'>
+						<value>HIDALGO # 801, PLAZA TENERÍAS LOCAL B-2 (ESQUINA CON GONZALITOS), COLONIA CENTRO, SAN NICOLAS DE LOS GARZA, NUEVO LEON, CP 66400</value>
+					</Data>
+					<Data name='lat'>
+						<value>25.749275</value>
+					</Data>
+					<Data name='lon'>
+						<value>-100.288162</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-100.288162,25.749275,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Santo Domingo</name>
+				<description><![CDATA[Direccion (Calle, #, Colonia): AV. DIEGO DIAZ DE BERLANGA # 811 COL. HDA. SANTO DOMINGO<br>lat: 25.750232<br>lon: -100.255327]]></description>
+				<styleUrl>#icon-1561-097138</styleUrl>
+				<ExtendedData>
+					<Data name='Direccion (Calle, #, Colonia)'>
+						<value>AV. DIEGO DIAZ DE BERLANGA # 811 COL. HDA. SANTO DOMINGO</value>
+					</Data>
+					<Data name='lat'>
+						<value>25.750232</value>
+					</Data>
+					<Data name='lon'>
+						<value>-100.255327</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-100.255327,25.750232,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Escobedo</name>
+				<description><![CDATA[Direccion (Calle, #, Colonia): AV. RAUL SALINAS LOZANO # 3300 CENTRO COMERCIAL SORIANA COL. GIRASOLES<br>lat: 25.791695<br>lon: -100.32371]]></description>
+				<styleUrl>#icon-1561-097138</styleUrl>
+				<ExtendedData>
+					<Data name='Direccion (Calle, #, Colonia)'>
+						<value>AV. RAUL SALINAS LOZANO # 3300 CENTRO COMERCIAL SORIANA COL. GIRASOLES</value>
+					</Data>
+					<Data name='lat'>
+						<value>25.791695</value>
+					</Data>
+					<Data name='lon'>
+						<value>-100.32371</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-100.32371,25.791695,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Hidalgo</name>
+				<description><![CDATA[Direccion (Calle, #, Colonia): HIDALGO #302, ENTRE ZUAZUA Y JUAN ALVAREZ<br>lat: 25.668521<br>lon: -100.321294]]></description>
+				<styleUrl>#icon-1561-097138</styleUrl>
+				<ExtendedData>
+					<Data name='Direccion (Calle, #, Colonia)'>
+						<value>HIDALGO #302, ENTRE ZUAZUA Y JUAN ALVAREZ</value>
+					</Data>
+					<Data name='lat'>
+						<value>25.668521</value>
+					</Data>
+					<Data name='lon'>
+						<value>-100.321294</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-100.321294,25.668521,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>GUADALUPE </name>
+				<description><![CDATA[Direccion (Calle, #, Colonia): CALLE BRAVO #565 ENTRE LERDO DE TEJADA CONTRA ESQUINA SORIANA GUADALUPE COL. LA HUERTA<br>lat: 25.680905<br>lon: -100.252766]]></description>
+				<styleUrl>#icon-1561-097138</styleUrl>
+				<ExtendedData>
+					<Data name='Direccion (Calle, #, Colonia)'>
+						<value>CALLE BRAVO #565 ENTRE LERDO DE TEJADA CONTRA ESQUINA SORIANA GUADALUPE COL. LA HUERTA</value>
+					</Data>
+					<Data name='lat'>
+						<value>25.680905</value>
+					</Data>
+					<Data name='lon'>
+						<value>-100.252766</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-100.252766,25.680905,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>MARIN </name>
+				<description><![CDATA[Direccion (Calle, #, Colonia): Pedro M.Mtz 104 Ote. Entre Alfonso Reyes y M. Aleman, Col. Centro. Marin, N.L.<br>lat: 25.876523<br>lon: -100.027538]]></description>
+				<styleUrl>#icon-1561-097138</styleUrl>
+				<ExtendedData>
+					<Data name='Direccion (Calle, #, Colonia)'>
+						<value>Pedro M.Mtz 104 Ote. Entre Alfonso Reyes y M. Aleman, Col. Centro. Marin, N.L.</value>
+					</Data>
+					<Data name='lat'>
+						<value>25.876523</value>
+					</Data>
+					<Data name='lon'>
+						<value>-100.027538</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-100.027538,25.876523,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>APODACA </name>
+				<description><![CDATA[Direccion (Calle, #, Colonia): AV. HIDALGO #100 CENTRO APODACA,N.L.<br>lat: 25.750171<br>lon: -100.161252]]></description>
+				<styleUrl>#icon-1561-097138</styleUrl>
+				<ExtendedData>
+					<Data name='Direccion (Calle, #, Colonia)'>
+						<value>AV. HIDALGO #100 CENTRO APODACA,N.L.</value>
+					</Data>
+					<Data name='lat'>
+						<value>25.750171</value>
+					</Data>
+					<Data name='lon'>
+						<value>-100.161252</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-100.161252,25.750171,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>CADEREYTA </name>
+				<description><![CDATA[Direccion (Calle, #, Colonia): MATAMOROS 406 PTE CENTRO CADEREYTA, N.,L.<br>lat: 25.593968<br>lon: -99.999281]]></description>
+				<styleUrl>#icon-1561-097138</styleUrl>
+				<ExtendedData>
+					<Data name='Direccion (Calle, #, Colonia)'>
+						<value>MATAMOROS 406 PTE CENTRO CADEREYTA, N.,L.</value>
+					</Data>
+					<Data name='lat'>
+						<value>25.593968</value>
+					</Data>
+					<Data name='lon'>
+						<value>-99.999281</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-99.999281,25.593968,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>SANTA MARIA</name>
+				<description><![CDATA[Direccion (Calle, #, Colonia): AV. PABLO LIVAS #7500 ESQ. SANTA ROSA DE LIMA COL. SANTA MARIA<br>lat: 25.656522<br>lon: -100.190549]]></description>
+				<styleUrl>#icon-1561-097138</styleUrl>
+				<ExtendedData>
+					<Data name='Direccion (Calle, #, Colonia)'>
+						<value>AV. PABLO LIVAS #7500 ESQ. SANTA ROSA DE LIMA COL. SANTA MARIA</value>
+					</Data>
+					<Data name='lat'>
+						<value>25.656522</value>
+					</Data>
+					<Data name='lon'>
+						<value>-100.190549</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-100.190549,25.656522,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>LA FE</name>
+				<description><![CDATA[Direccion (Calle, #, Colonia): AV. FELIX GALVAN # 100 LOCAL H CENTRO COMERCIAL LA FE  COL. LA FE<br>lat: 25.723326<br>lon: -100.216362]]></description>
+				<styleUrl>#icon-1561-097138</styleUrl>
+				<ExtendedData>
+					<Data name='Direccion (Calle, #, Colonia)'>
+						<value>AV. FELIX GALVAN # 100 LOCAL H CENTRO COMERCIAL LA FE  COL. LA FE</value>
+					</Data>
+					<Data name='lat'>
+						<value>25.723326</value>
+					</Data>
+					<Data name='lon'>
+						<value>-100.216362</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-100.216362,25.723326,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>SAN BERNABE/SOLIDARIDAD</name>
+				<description><![CDATA[Direccion (Calle, #, Colonia): Av. Luis Donaldo Colosio  7911-C Col. Cuidad Solidaridad Barrio San Luis<br>lat: 25.785244<br>lon: -100.386793]]></description>
+				<styleUrl>#icon-1561-097138</styleUrl>
+				<ExtendedData>
+					<Data name='Direccion (Calle, #, Colonia)'>
+						<value>Av. Luis Donaldo Colosio  7911-C Col. Cuidad Solidaridad Barrio San Luis</value>
+					</Data>
+					<Data name='lat'>
+						<value>25.785244</value>
+					</Data>
+					<Data name='lon'>
+						<value>-100.386793</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-100.386793,25.785244,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>LINCOLN (San Jorge)</name>
+				<description><![CDATA[Direccion (Calle, #, Colonia): AV. RUIZ CORTINEZ #4600 ENTRE CALLES CON CONSTITUCION DEL 17 Y 16 DE SEPTIEMBRE, COLONIA BUROCRATAS DEL ESTADO<br>lat: 25.711729<br>lon: -100.36158]]></description>
+				<styleUrl>#icon-1561-097138</styleUrl>
+				<ExtendedData>
+					<Data name='Direccion (Calle, #, Colonia)'>
+						<value>AV. RUIZ CORTINEZ #4600 ENTRE CALLES CON CONSTITUCION DEL 17 Y 16 DE SEPTIEMBRE, COLONIA BUROCRATAS DEL ESTADO</value>
+					</Data>
+					<Data name='lat'>
+						<value>25.711729</value>
+					</Data>
+					<Data name='lon'>
+						<value>-100.36158</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-100.36158,25.711729,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>La Silla</name>
+				<description><![CDATA[Direccion (Calle, #, Colonia): AV. EUGENIO GARZA SADA #3755 ALTOS  COL . CONTRY ENTRE LINCE Y CAPRICORNIO<br>lat: 25.628512<br>lon: -100.277697]]></description>
+				<styleUrl>#icon-1561-097138</styleUrl>
+				<ExtendedData>
+					<Data name='Direccion (Calle, #, Colonia)'>
+						<value>AV. EUGENIO GARZA SADA #3755 ALTOS  COL . CONTRY ENTRE LINCE Y CAPRICORNIO</value>
+					</Data>
+					<Data name='lat'>
+						<value>25.628512</value>
+					</Data>
+					<Data name='lon'>
+						<value>-100.277697</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-100.277697,25.628512,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>LEONA </name>
+				<description><![CDATA[Direccion (Calle, #, Colonia): AV. MANUEL ORDOÑEZ #651 LOCAL 1 PLAZA EL PASEO, FRENTE A WALMARTH SANTA CATARINA, NL. AL LADO DE CATER PILLAR COL. INDUSTRIALES DEL PONIENTE<br>lat: 25.674439<br>lon: -100.449044]]></description>
+				<styleUrl>#icon-1561-097138</styleUrl>
+				<ExtendedData>
+					<Data name='Direccion (Calle, #, Colonia)'>
+						<value>AV. MANUEL ORDOÑEZ #651 LOCAL 1 PLAZA EL PASEO, FRENTE A WALMARTH SANTA CATARINA, NL. AL LADO DE CATER PILLAR COL. INDUSTRIALES DEL PONIENTE</value>
+					</Data>
+					<Data name='lat'>
+						<value>25.674439</value>
+					</Data>
+					<Data name='lon'>
+						<value>-100.449044</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-100.449044,25.674439,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>SAN JERONIMO</name>
+				<description><![CDATA[Direccion (Calle, #, Colonia): BLV. ROGELIO CANTU #1802.COL. SANTA MARIA<br>lat: 25.67579<br>lon: -100.376029]]></description>
+				<styleUrl>#icon-1561-097138</styleUrl>
+				<ExtendedData>
+					<Data name='Direccion (Calle, #, Colonia)'>
+						<value>BLV. ROGELIO CANTU #1802.COL. SANTA MARIA</value>
+					</Data>
+					<Data name='lat'>
+						<value>25.67579</value>
+					</Data>
+					<Data name='lon'>
+						<value>-100.376029</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-100.376029,25.67579,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>CERRALVO </name>
+				<description><![CDATA[Direccion (Calle, #, Colonia): GUERRERO # 213 ENTRE JUAREZ Y ZARAGOZA COL. CENTRO CERRALVO N.L., C.P. 65900 <br>lat: 26.088971<br>lon: -99.613938]]></description>
+				<styleUrl>#icon-1561-097138</styleUrl>
+				<ExtendedData>
+					<Data name='Direccion (Calle, #, Colonia)'>
+						<value>GUERRERO # 213 ENTRE JUAREZ Y ZARAGOZA COL. CENTRO CERRALVO N.L., C.P. 65900 </value>
+					</Data>
+					<Data name='lat'>
+						<value>26.088971</value>
+					</Data>
+					<Data name='lon'>
+						<value>-99.613938</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-99.613938,26.088971,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>SABINAS</name>
+				<description><![CDATA[Direccion (Calle, #, Colonia): MANUEL M. GARCIA #1000 COL. INDUSTRIAL<br>lat: 26.500995<br>lon: -100.174928]]></description>
+				<styleUrl>#icon-1561-097138</styleUrl>
+				<ExtendedData>
+					<Data name='Direccion (Calle, #, Colonia)'>
+						<value>MANUEL M. GARCIA #1000 COL. INDUSTRIAL</value>
+					</Data>
+					<Data name='lat'>
+						<value>26.500995</value>
+					</Data>
+					<Data name='lon'>
+						<value>-100.174928</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-100.174928,26.500995,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>RAMONES </name>
+				<description><![CDATA[Direccion (Calle, #, Colonia): GUERRERO  402 OTE. (No hay colonias)<br>lat: 25.699004<br>lon: -99.623852]]></description>
+				<styleUrl>#icon-1561-097138</styleUrl>
+				<ExtendedData>
+					<Data name='Direccion (Calle, #, Colonia)'>
+						<value>GUERRERO  402 OTE. (No hay colonias)</value>
+					</Data>
+					<Data name='lat'>
+						<value>25.699004</value>
+					</Data>
+					<Data name='lon'>
+						<value>-99.623852</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-99.623852,25.699004,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ALDAMAS </name>
+				<description><![CDATA[Direccion (Calle, #, Colonia): CARRETERA ESTACION ALDAMA KM 5 <br>lat: 26.064021<br>lon: -99.196072]]></description>
+				<styleUrl>#icon-1561-097138</styleUrl>
+				<ExtendedData>
+					<Data name='Direccion (Calle, #, Colonia)'>
+						<value>CARRETERA ESTACION ALDAMA KM 5 </value>
+					</Data>
+					<Data name='lat'>
+						<value>26.064021</value>
+					</Data>
+					<Data name='lon'>
+						<value>-99.196072</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-99.196072,26.064021,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>VILLALDAMAS </name>
+				<description><![CDATA[Direccion (Calle, #, Colonia): CALLE RAYON S/N ENTRE JUAREZ Y ZARAGOZA COL. CENTRO AL LADO DE LA PRESIDENCIA MUNICIPAL<br>lat: 26.498466<br>lon: -100.425329]]></description>
+				<styleUrl>#icon-1561-097138</styleUrl>
+				<ExtendedData>
+					<Data name='Direccion (Calle, #, Colonia)'>
+						<value>CALLE RAYON S/N ENTRE JUAREZ Y ZARAGOZA COL. CENTRO AL LADO DE LA PRESIDENCIA MUNICIPAL</value>
+					</Data>
+					<Data name='lat'>
+						<value>26.498466</value>
+					</Data>
+					<Data name='lon'>
+						<value>-100.425329</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-100.425329,26.498466,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>CHINA </name>
+				<description><![CDATA[Direccion (Calle, #, Colonia): ALDAMA ESQUINA MORELOS , S/N COL. CENTRO <br>lat: 25.703309<br>lon: -99.241827]]></description>
+				<styleUrl>#icon-1561-097138</styleUrl>
+				<ExtendedData>
+					<Data name='Direccion (Calle, #, Colonia)'>
+						<value>ALDAMA ESQUINA MORELOS , S/N COL. CENTRO </value>
+					</Data>
+					<Data name='lat'>
+						<value>25.703309</value>
+					</Data>
+					<Data name='lon'>
+						<value>-99.241827</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-99.241827,25.703309,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ORIENTE </name>
+				<description><![CDATA[Direccion (Calle, #, Colonia): AV. URDIÑOLA 995 SUR, COL. CENTRO<br>lat: 25.406323<br>lon: -100.989324]]></description>
+				<styleUrl>#icon-1561-097138</styleUrl>
+				<ExtendedData>
+					<Data name='Direccion (Calle, #, Colonia)'>
+						<value>AV. URDIÑOLA 995 SUR, COL. CENTRO</value>
+					</Data>
+					<Data name='lat'>
+						<value>25.406323</value>
+					</Data>
+					<Data name='lon'>
+						<value>-100.989324</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-100.989324,25.406323,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>PONIENTE</name>
+				<description><![CDATA[Direccion (Calle, #, Colonia): EMILIO CARRANZA 110 SUR COL. CENTRO ESQ. MADERO<br>lat: 25.426019<br>lon: -101.010339]]></description>
+				<styleUrl>#icon-1561-097138</styleUrl>
+				<ExtendedData>
+					<Data name='Direccion (Calle, #, Colonia)'>
+						<value>EMILIO CARRANZA 110 SUR COL. CENTRO ESQ. MADERO</value>
+					</Data>
+					<Data name='lat'>
+						<value>25.426019</value>
+					</Data>
+					<Data name='lon'>
+						<value>-101.010339</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-101.010339,25.426019,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>RAMOS ARIZPE </name>
+				<description><![CDATA[Direccion (Calle, #, Colonia): Bvld. Plan de Guadalupe esquina con Matamoros Sin Num.   C.P. 25900 Frente a Clínica del IXCLERO COL. ZONA CENTRO<br>lat: 25.537008<br>lon: -100.949053]]></description>
+				<styleUrl>#icon-1561-097138</styleUrl>
+				<ExtendedData>
+					<Data name='Direccion (Calle, #, Colonia)'>
+						<value>Bvld. Plan de Guadalupe esquina con Matamoros Sin Num.   C.P. 25900 Frente a Clínica del IXCLERO COL. ZONA CENTRO</value>
+					</Data>
+					<Data name='lat'>
+						<value>25.537008</value>
+					</Data>
+					<Data name='lon'>
+						<value>-100.949053</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-100.949053,25.537008,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>GRAL. CEPEDA </name>
+				<description><![CDATA[Direccion (Calle, #, Colonia): Calle Fco. I Madero #408 entre calles Gómez Farias  y Victoria Col. Centro (a un lado de la casa del Maestro, Salón de eventos) <br>lat: 25.375045<br>lon: -101.473962]]></description>
+				<styleUrl>#icon-1561-097138</styleUrl>
+				<ExtendedData>
+					<Data name='Direccion (Calle, #, Colonia)'>
+						<value>Calle Fco. I Madero #408 entre calles Gómez Farias  y Victoria Col. Centro (a un lado de la casa del Maestro, Salón de eventos) </value>
+					</Data>
+					<Data name='lat'>
+						<value>25.375045</value>
+					</Data>
+					<Data name='lon'>
+						<value>-101.473962</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-101.473962,25.375045,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>SAN RAFAEL </name>
+				<description><![CDATA[Direccion (Calle, #, Colonia): SAN RAFAEL DOMICILIO CONOCIDO (AGENCIA RURAL A ESPALDAS DE LA GASOLINERA…A ORILLAS DEL PUEBLO) <br>lat: 25.023845<br>lon: -100.547092]]></description>
+				<styleUrl>#icon-1561-097138</styleUrl>
+				<ExtendedData>
+					<Data name='Direccion (Calle, #, Colonia)'>
+						<value>SAN RAFAEL DOMICILIO CONOCIDO (AGENCIA RURAL A ESPALDAS DE LA GASOLINERA…A ORILLAS DEL PUEBLO) </value>
+					</Data>
+					<Data name='lat'>
+						<value>25.023845</value>
+					</Data>
+					<Data name='lon'>
+						<value>-100.547092</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-100.547092,25.023845,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>SAN ANTONIO </name>
+				<description><![CDATA[Direccion (Calle, #, Colonia): AGENCIA RURAL  MARGARITA TALAMAS S/N, COL. SAN ANTONIO DE LAS ALANAS FRENTE A LA PLAZA PRINCIPAL<br>lat: 25.450134<br>lon: -100.84887]]></description>
+				<styleUrl>#icon-1561-097138</styleUrl>
+				<ExtendedData>
+					<Data name='Direccion (Calle, #, Colonia)'>
+						<value>AGENCIA RURAL  MARGARITA TALAMAS S/N, COL. SAN ANTONIO DE LAS ALANAS FRENTE A LA PLAZA PRINCIPAL</value>
+					</Data>
+					<Data name='lat'>
+						<value>25.450134</value>
+					</Data>
+					<Data name='lon'>
+						<value>-100.84887</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-100.84887,25.450134,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>SABINAS</name>
+				<description><![CDATA[Direccion (Calle, #, Colonia):  CALLE ZARAGOZA 216 OTE COL. CENTRO<br>lat: 26.501609<br>lon: -100.182438]]></description>
+				<styleUrl>#icon-1561-097138</styleUrl>
+				<ExtendedData>
+					<Data name='Direccion (Calle, #, Colonia)'>
+						<value> CALLE ZARAGOZA 216 OTE COL. CENTRO</value>
+					</Data>
+					<Data name='lat'>
+						<value>26.501609</value>
+					</Data>
+					<Data name='lon'>
+						<value>-100.182438</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-100.182438,26.501609,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ROSITA </name>
+				<description><![CDATA[Direccion (Calle, #, Colonia): NICOLAS JIMENEZ SN, FRENTE A LA PLAZA DEL 6, COL. DEL 6<br>lat: 27.932394<br>lon: -101.227067]]></description>
+				<styleUrl>#icon-1561-097138</styleUrl>
+				<ExtendedData>
+					<Data name='Direccion (Calle, #, Colonia)'>
+						<value>NICOLAS JIMENEZ SN, FRENTE A LA PLAZA DEL 6, COL. DEL 6</value>
+					</Data>
+					<Data name='lat'>
+						<value>27.932394</value>
+					</Data>
+					<Data name='lon'>
+						<value>-101.227067</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-101.227067,27.932394,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>MUZQUIZ </name>
+				<description><![CDATA[Direccion (Calle, #, Colonia): ABELARDO MENCHACA Y JESUS CARRANZA, BARRIO EL CUARTEL.+++SIN NUMERO++++<br>lat: 27.874287<br>lon: -101.507277]]></description>
+				<styleUrl>#icon-1561-097138</styleUrl>
+				<ExtendedData>
+					<Data name='Direccion (Calle, #, Colonia)'>
+						<value>ABELARDO MENCHACA Y JESUS CARRANZA, BARRIO EL CUARTEL.+++SIN NUMERO++++</value>
+					</Data>
+					<Data name='lat'>
+						<value>27.874287</value>
+					</Data>
+					<Data name='lon'>
+						<value>-101.507277</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-101.507277,27.874287,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>BARROTERAN </name>
+				<description><![CDATA[Direccion (Calle, #, Colonia): 20 de Noviembre #26 Col. Barrio 4<br>lat: 27.682464<br>lon: -101.297293]]></description>
+				<styleUrl>#icon-1561-097138</styleUrl>
+				<ExtendedData>
+					<Data name='Direccion (Calle, #, Colonia)'>
+						<value>20 de Noviembre #26 Col. Barrio 4</value>
+					</Data>
+					<Data name='lat'>
+						<value>27.682464</value>
+					</Data>
+					<Data name='lon'>
+						<value>-101.297293</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-101.297293,27.682464,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>REYNOSA</name>
+				<description><![CDATA[Direccion (Calle, #, Colonia): PRIV. A. LOPEZ MATEOS S/N COL. A. LOPEZ MATEOS +++ENFRENTE DE ESTADIO DE BEISBOL DE LOS BRONCOS+++++ <br>lat: 26.079874<br>lon: -98.311629]]></description>
+				<styleUrl>#icon-1561-097138</styleUrl>
+				<ExtendedData>
+					<Data name='Direccion (Calle, #, Colonia)'>
+						<value>PRIV. A. LOPEZ MATEOS S/N COL. A. LOPEZ MATEOS +++ENFRENTE DE ESTADIO DE BEISBOL DE LOS BRONCOS+++++ </value>
+					</Data>
+					<Data name='lat'>
+						<value>26.079874</value>
+					</Data>
+					<Data name='lon'>
+						<value>-98.311629</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-98.311629,26.079874,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>MORELOS  </name>
+				<description><![CDATA[Direccion (Calle, #, Colonia):  Bvdl. Morelos S/N entre Alvaro Obregon y Americo Villarreal. Col. Antonio J. Bermudez Plaza comercial del Rio.<br>lat: 26.058017<br>lon: -98.292934]]></description>
+				<styleUrl>#icon-1561-097138</styleUrl>
+				<ExtendedData>
+					<Data name='Direccion (Calle, #, Colonia)'>
+						<value> Bvdl. Morelos S/N entre Alvaro Obregon y Americo Villarreal. Col. Antonio J. Bermudez Plaza comercial del Rio.</value>
+					</Data>
+					<Data name='lat'>
+						<value>26.058017</value>
+					</Data>
+					<Data name='lon'>
+						<value>-98.292934</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-98.292934,26.058017,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>RIO BRAVO </name>
+				<description><![CDATA[Direccion (Calle, #, Colonia): LIBERTAD Y ABASOLO S/N FRACC. RIO BRAVO<br>lat: 25.981136<br>lon: -98.095593]]></description>
+				<styleUrl>#icon-1561-097138</styleUrl>
+				<ExtendedData>
+					<Data name='Direccion (Calle, #, Colonia)'>
+						<value>LIBERTAD Y ABASOLO S/N FRACC. RIO BRAVO</value>
+					</Data>
+					<Data name='lat'>
+						<value>25.981136</value>
+					</Data>
+					<Data name='lon'>
+						<value>-98.095593</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-98.095593,25.981136,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>DÍAZ ORDAZ </name>
+				<description><![CDATA[Direccion (Calle, #, Colonia): Septima 300 Esq.V.Carranza Col.Centro GUSTAVO Díaz Ordaz   <br>lat: 26.234995<br>lon: -98.595064]]></description>
+				<styleUrl>#icon-1561-097138</styleUrl>
+				<ExtendedData>
+					<Data name='Direccion (Calle, #, Colonia)'>
+						<value>Septima 300 Esq.V.Carranza Col.Centro GUSTAVO Díaz Ordaz   </value>
+					</Data>
+					<Data name='lat'>
+						<value>26.234995</value>
+					</Data>
+					<Data name='lon'>
+						<value>-98.595064</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-98.595064,26.234995,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>VALLE HERMOSO</name>
+				<description><![CDATA[Direccion (Calle, #, Colonia): HIDALGO S/N, CRUZ CON CALLE 2da Col. CENTRO, A dos cuadras de la plaza principal<br>lat: 25.536469<br>lon: -103.253363]]></description>
+				<styleUrl>#icon-1561-097138</styleUrl>
+				<ExtendedData>
+					<Data name='Direccion (Calle, #, Colonia)'>
+						<value>HIDALGO S/N, CRUZ CON CALLE 2da Col. CENTRO, A dos cuadras de la plaza principal</value>
+					</Data>
+					<Data name='lat'>
+						<value>25.536469</value>
+					</Data>
+					<Data name='lon'>
+						<value>-103.253363</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-103.253363,25.536469,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>SAN FERNANDO </name>
+				<description><![CDATA[Direccion (Calle, #, Colonia):  Segundo Centenario Sur y Carranza S/N Col.Centro<br>lat: 24.842437<br>lon: -98.15589]]></description>
+				<styleUrl>#icon-1561-097138</styleUrl>
+				<ExtendedData>
+					<Data name='Direccion (Calle, #, Colonia)'>
+						<value> Segundo Centenario Sur y Carranza S/N Col.Centro</value>
+					</Data>
+					<Data name='lat'>
+						<value>24.842437</value>
+					</Data>
+					<Data name='lon'>
+						<value>-98.15589</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-98.15589,24.842437,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>MONTEMORELOS</name>
+				<description><![CDATA[Direccion (Calle, #, Colonia): HIDALGO EQUINA CON ZARAGOZA # 206 COL. CENTRO<br>lat: 25.194107<br>lon: -99.826562]]></description>
+				<styleUrl>#icon-1561-097138</styleUrl>
+				<ExtendedData>
+					<Data name='Direccion (Calle, #, Colonia)'>
+						<value>HIDALGO EQUINA CON ZARAGOZA # 206 COL. CENTRO</value>
+					</Data>
+					<Data name='lat'>
+						<value>25.194107</value>
+					</Data>
+					<Data name='lon'>
+						<value>-99.826562</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-99.826562,25.194107,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>LINARES </name>
+				<description><![CDATA[Direccion (Calle, #, Colonia): VENUSTIANO CARRANZA ESQUINA CON CORREGIDORA S/N ZONA CENTRO<br>lat: 24.860078<br>lon: -99.565701]]></description>
+				<styleUrl>#icon-1561-097138</styleUrl>
+				<ExtendedData>
+					<Data name='Direccion (Calle, #, Colonia)'>
+						<value>VENUSTIANO CARRANZA ESQUINA CON CORREGIDORA S/N ZONA CENTRO</value>
+					</Data>
+					<Data name='lat'>
+						<value>24.860078</value>
+					</Data>
+					<Data name='lon'>
+						<value>-99.565701</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-99.565701,24.860078,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ALLENDE </name>
+				<description><![CDATA[Direccion (Calle, #, Colonia): LOS FRESNOS # 900 COL. FRACC. SAN JAVIER<br>lat: 25.263559<br>lon: -100.010347]]></description>
+				<styleUrl>#icon-1561-097138</styleUrl>
+				<ExtendedData>
+					<Data name='Direccion (Calle, #, Colonia)'>
+						<value>LOS FRESNOS # 900 COL. FRACC. SAN JAVIER</value>
+					</Data>
+					<Data name='lat'>
+						<value>25.263559</value>
+					</Data>
+					<Data name='lon'>
+						<value>-100.010347</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-100.010347,25.263559,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>SANTIAGO </name>
+				<description><![CDATA[Direccion (Calle, #, Colonia): DONATO GUERRA #  119 ZONA CENTRO<br>lat: 25.42628<br>lon: -100.146751]]></description>
+				<styleUrl>#icon-1561-097138</styleUrl>
+				<ExtendedData>
+					<Data name='Direccion (Calle, #, Colonia)'>
+						<value>DONATO GUERRA #  119 ZONA CENTRO</value>
+					</Data>
+					<Data name='lat'>
+						<value>25.42628</value>
+					</Data>
+					<Data name='lon'>
+						<value>-100.146751</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-100.146751,25.42628,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>GALEANA </name>
+				<description><![CDATA[Direccion (Calle, #, Colonia): DEGOLLADO  # 27 COL. CRISTO REY<br>lat: 24.825478<br>lon: -100.077593]]></description>
+				<styleUrl>#icon-1561-097138</styleUrl>
+				<ExtendedData>
+					<Data name='Direccion (Calle, #, Colonia)'>
+						<value>DEGOLLADO  # 27 COL. CRISTO REY</value>
+					</Data>
+					<Data name='lat'>
+						<value>24.825478</value>
+					</Data>
+					<Data name='lon'>
+						<value>-100.077593</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-100.077593,24.825478,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ARAMBERRI </name>
+				<description><![CDATA[Direccion (Calle, #, Colonia): NARANJOS S/N ZONA CENTRO A LADO DE SUBESTACION (CFE)<br>lat: 24.107137<br>lon: -99.818639]]></description>
+				<styleUrl>#icon-1561-097138</styleUrl>
+				<ExtendedData>
+					<Data name='Direccion (Calle, #, Colonia)'>
+						<value>NARANJOS S/N ZONA CENTRO A LADO DE SUBESTACION (CFE)</value>
+					</Data>
+					<Data name='lat'>
+						<value>24.107137</value>
+					</Data>
+					<Data name='lon'>
+						<value>-99.818639</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-99.818639,24.107137,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>DR. ARROYO </name>
+				<description><![CDATA[Direccion (Calle, #, Colonia): CARRETERA A MATEHUALA KM. 1 S/N <br>lat: 23.668906<br>lon: -100.19056]]></description>
+				<styleUrl>#icon-1561-097138</styleUrl>
+				<ExtendedData>
+					<Data name='Direccion (Calle, #, Colonia)'>
+						<value>CARRETERA A MATEHUALA KM. 1 S/N </value>
+					</Data>
+					<Data name='lat'>
+						<value>23.668906</value>
+					</Data>
+					<Data name='lon'>
+						<value>-100.19056</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-100.19056,23.668906,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>MONCLOVA</name>
+				<description><![CDATA[Direccion (Calle, #, Colonia): Av. Lázaro Cárdenas #543, Col. Pemex<br>lat: 26.917095<br>lon: -101.458397]]></description>
+				<styleUrl>#icon-1561-097138</styleUrl>
+				<ExtendedData>
+					<Data name='Direccion (Calle, #, Colonia)'>
+						<value>Av. Lázaro Cárdenas #543, Col. Pemex</value>
+					</Data>
+					<Data name='lat'>
+						<value>26.917095</value>
+					</Data>
+					<Data name='lon'>
+						<value>-101.458397</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-101.458397,26.917095,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>JUAREZ</name>
+				<description><![CDATA[Direccion (Calle, #, Colonia): JUAREZ # 354 SUR. COL CENTRO<br>lat: 26.897597<br>lon: -101.415203]]></description>
+				<styleUrl>#icon-1561-097138</styleUrl>
+				<ExtendedData>
+					<Data name='Direccion (Calle, #, Colonia)'>
+						<value>JUAREZ # 354 SUR. COL CENTRO</value>
+					</Data>
+					<Data name='lat'>
+						<value>26.897597</value>
+					</Data>
+					<Data name='lon'>
+						<value>-101.415203</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-101.415203,26.897597,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>FRONTERA </name>
+				<description><![CDATA[Direccion (Calle, #, Colonia): Calle Brasil diagonal con Argentina Sin Núm. Col. Guadalupe C.P.25750 en seguida de City Club o Soriana   <br>lat: 26.900831<br>lon: -101.434193]]></description>
+				<styleUrl>#icon-1561-097138</styleUrl>
+				<ExtendedData>
+					<Data name='Direccion (Calle, #, Colonia)'>
+						<value>Calle Brasil diagonal con Argentina Sin Núm. Col. Guadalupe C.P.25750 en seguida de City Club o Soriana   </value>
+					</Data>
+					<Data name='lat'>
+						<value>26.900831</value>
+					</Data>
+					<Data name='lon'>
+						<value>-101.434193</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-101.434193,26.900831,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>SAN BUENAVENTURA</name>
+				<description><![CDATA[Direccion (Calle, #, Colonia): ALAMEDA JUAREZ # 604 ZONA CENTRO, C.P. 25500<br>lat: 27.050202<br>lon: -101.550965]]></description>
+				<styleUrl>#icon-1561-097138</styleUrl>
+				<ExtendedData>
+					<Data name='Direccion (Calle, #, Colonia)'>
+						<value>ALAMEDA JUAREZ # 604 ZONA CENTRO, C.P. 25500</value>
+					</Data>
+					<Data name='lat'>
+						<value>27.050202</value>
+					</Data>
+					<Data name='lon'>
+						<value>-101.550965</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-101.550965,27.050202,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>CASTAÑOS </name>
+				<description><![CDATA[Direccion (Calle, #, Colonia): CALLE JUAREZ # 110 ZONA CENTRO C.P. 25870<br>lat: 26.785173<br>lon: -101.431124]]></description>
+				<styleUrl>#icon-1561-097138</styleUrl>
+				<ExtendedData>
+					<Data name='Direccion (Calle, #, Colonia)'>
+						<value>CALLE JUAREZ # 110 ZONA CENTRO C.P. 25870</value>
+					</Data>
+					<Data name='lat'>
+						<value>26.785173</value>
+					</Data>
+					<Data name='lon'>
+						<value>-101.431124</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-101.431124,26.785173,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>CUATROCIENEGAS </name>
+				<description><![CDATA[Direccion (Calle, #, Colonia): NIÑOS HEROES # 200, ZONA CENTRO C.P0. 27640, <br>lat: 26.987043<br>lon: -102.063739]]></description>
+				<styleUrl>#icon-1561-097138</styleUrl>
+				<ExtendedData>
+					<Data name='Direccion (Calle, #, Colonia)'>
+						<value>NIÑOS HEROES # 200, ZONA CENTRO C.P0. 27640, </value>
+					</Data>
+					<Data name='lat'>
+						<value>26.987043</value>
+					</Data>
+					<Data name='lon'>
+						<value>-102.063739</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-102.063739,26.987043,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>PRESIDENCIA </name>
+				<description><![CDATA[Direccion (Calle, #, Colonia): Progreso y Cuahtemoc Sin Núm. Col. Centro a un lado de Presidencia <br>lat: 26.912082<br>lon: -101.418314]]></description>
+				<styleUrl>#icon-1561-097138</styleUrl>
+				<ExtendedData>
+					<Data name='Direccion (Calle, #, Colonia)'>
+						<value>Progreso y Cuahtemoc Sin Núm. Col. Centro a un lado de Presidencia </value>
+					</Data>
+					<Data name='lat'>
+						<value>26.912082</value>
+					</Data>
+					<Data name='lon'>
+						<value>-101.418314</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-101.418314,26.912082,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>PIEDRAS NEGRAS</name>
+				<description><![CDATA[Direccion (Calle, #, Colonia): VERACRUZ # 201 COL. ROMA  <br>lat: 28.702239<br>lon: -100.52649]]></description>
+				<styleUrl>#icon-1561-097138</styleUrl>
+				<ExtendedData>
+					<Data name='Direccion (Calle, #, Colonia)'>
+						<value>VERACRUZ # 201 COL. ROMA  </value>
+					</Data>
+					<Data name='lat'>
+						<value>28.702239</value>
+					</Data>
+					<Data name='lon'>
+						<value>-100.52649</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-100.52649,28.702239,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ACUÑA </name>
+				<description><![CDATA[Direccion (Calle, #, Colonia): CALLE GUERRERO "155 SUR. COL. CENTRO<br>lat: 29.32472<br>lon: -100.932083]]></description>
+				<styleUrl>#icon-1561-097138</styleUrl>
+				<ExtendedData>
+					<Data name='Direccion (Calle, #, Colonia)'>
+						<value>CALLE GUERRERO "155 SUR. COL. CENTRO</value>
+					</Data>
+					<Data name='lat'>
+						<value>29.32472</value>
+					</Data>
+					<Data name='lon'>
+						<value>-100.932083</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-100.932083,29.32472,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ALLENDE </name>
+				<description><![CDATA[Direccion (Calle, #, Colonia): CALLE OCAMPO # 504 SUR, COL. CENTRO<br>lat: 25.524435<br>lon: -103.224192]]></description>
+				<styleUrl>#icon-1561-097138</styleUrl>
+				<ExtendedData>
+					<Data name='Direccion (Calle, #, Colonia)'>
+						<value>CALLE OCAMPO # 504 SUR, COL. CENTRO</value>
+					</Data>
+					<Data name='lat'>
+						<value>25.524435</value>
+					</Data>
+					<Data name='lon'>
+						<value>-103.224192</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-103.224192,25.524435,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>NAVA </name>
+				<description><![CDATA[Direccion (Calle, #, Colonia): Hidalgo 1190, esq. Rosales  Col.Centro<br>lat: 28.424901<br>lon: -100.777695]]></description>
+				<styleUrl>#icon-1561-097138</styleUrl>
+				<ExtendedData>
+					<Data name='Direccion (Calle, #, Colonia)'>
+						<value>Hidalgo 1190, esq. Rosales  Col.Centro</value>
+					</Data>
+					<Data name='lat'>
+						<value>28.424901</value>
+					</Data>
+					<Data name='lon'>
+						<value>-100.777695</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-100.777695,28.424901,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ZARAGOZA </name>
+				<description><![CDATA[Direccion (Calle, #, Colonia): Galeana 906 Ote., entre Cuauhtemoc y los rieles, Col.Centro<br>lat: 28.493597<br>lon: -100.909102]]></description>
+				<styleUrl>#icon-1561-097138</styleUrl>
+				<ExtendedData>
+					<Data name='Direccion (Calle, #, Colonia)'>
+						<value>Galeana 906 Ote., entre Cuauhtemoc y los rieles, Col.Centro</value>
+					</Data>
+					<Data name='lat'>
+						<value>28.493597</value>
+					</Data>
+					<Data name='lon'>
+						<value>-100.909102</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-100.909102,28.493597,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Miguel Aleman</name>
+				<description><![CDATA[Direccion (Calle, #, Colonia): Pino Suárez # 147 entre 6ta y 7a  Col. Centro<br>lat: 23.719374<br>lon: -99.154658]]></description>
+				<styleUrl>#icon-1561-097138</styleUrl>
+				<ExtendedData>
+					<Data name='Direccion (Calle, #, Colonia)'>
+						<value>Pino Suárez # 147 entre 6ta y 7a  Col. Centro</value>
+					</Data>
+					<Data name='lat'>
+						<value>23.719374</value>
+					</Data>
+					<Data name='lon'>
+						<value>-99.154658</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-99.154658,23.719374,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ORIENTE </name>
+				<description><![CDATA[Direccion (Calle, #, Colonia): AQUILES SERDAN #1801  FRACC. OJO CALIENTE<br>lat: 27.487373<br>lon: -99.503689]]></description>
+				<styleUrl>#icon-1561-097138</styleUrl>
+				<ExtendedData>
+					<Data name='Direccion (Calle, #, Colonia)'>
+						<value>AQUILES SERDAN #1801  FRACC. OJO CALIENTE</value>
+					</Data>
+					<Data name='lat'>
+						<value>27.487373</value>
+					</Data>
+					<Data name='lon'>
+						<value>-99.503689</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-99.503689,27.487373,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Poniente</name>
+				<description><![CDATA[Direccion (Calle, #, Colonia): VICTORIA #4730 Frente a parque Mendoza, enseguida de COMAPA COL. HIDALGO<br>lat: 27.495519<br>lon: -99.52004]]></description>
+				<styleUrl>#icon-1561-097138</styleUrl>
+				<ExtendedData>
+					<Data name='Direccion (Calle, #, Colonia)'>
+						<value>VICTORIA #4730 Frente a parque Mendoza, enseguida de COMAPA COL. HIDALGO</value>
+					</Data>
+					<Data name='lat'>
+						<value>27.495519</value>
+					</Data>
+					<Data name='lon'>
+						<value>-99.52004</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-99.52004,27.495519,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Cd. Mier</name>
+				<description><![CDATA[Direccion (Calle, #, Colonia): J.H.Palacios 301, esquina con Guerrero y Abasolo Col. Centro<br>lat: 26.431574<br>lon: -99.15174]]></description>
+				<styleUrl>#icon-1561-097138</styleUrl>
+				<ExtendedData>
+					<Data name='Direccion (Calle, #, Colonia)'>
+						<value>J.H.Palacios 301, esquina con Guerrero y Abasolo Col. Centro</value>
+					</Data>
+					<Data name='lat'>
+						<value>26.431574</value>
+					</Data>
+					<Data name='lon'>
+						<value>-99.15174</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-99.15174,26.431574,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Guerrero</name>
+				<description><![CDATA[Direccion (Calle, #, Colonia): Hidalgo #1000 entre Av. Juarez y 19 de Octubre, Col. Centro<br>lat: 22.243325<br>lon: -97.849892]]></description>
+				<styleUrl>#icon-1561-097138</styleUrl>
+				<ExtendedData>
+					<Data name='Direccion (Calle, #, Colonia)'>
+						<value>Hidalgo #1000 entre Av. Juarez y 19 de Octubre, Col. Centro</value>
+					</Data>
+					<Data name='lat'>
+						<value>22.243325</value>
+					</Data>
+					<Data name='lon'>
+						<value>-97.849892</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-97.849892,22.243325,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camargo</name>
+				<description><![CDATA[Direccion (Calle, #, Colonia): BELIZARIO DOMINGUEZ NUMERO 603 COL. CENTRO ENTRE CALLES DE JALISCO Y VERACRUZ<br>lat: 27.46449<br>lon: -99.49635]]></description>
+				<styleUrl>#icon-1561-097138</styleUrl>
+				<ExtendedData>
+					<Data name='Direccion (Calle, #, Colonia)'>
+						<value>BELIZARIO DOMINGUEZ NUMERO 603 COL. CENTRO ENTRE CALLES DE JALISCO Y VERACRUZ</value>
+					</Data>
+					<Data name='lat'>
+						<value>27.46449</value>
+					</Data>
+					<Data name='lon'>
+						<value>-99.49635</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-99.49635,27.46449,0.0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Style id='icon-1561-097138'>
+			<IconStyle>
+				<color>ff387109</color>
+				<scale>1.0</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+	</Document>
+</kml>
